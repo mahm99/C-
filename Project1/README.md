@@ -1,6 +1,5 @@
-#Cpp
-#Project1
 Description:
+
 * This file contains c++ program code for a simple game                                                                                                                                                    
 * known as chasing the rabbit. The program allows user                                                                                                                                                  
 * to chose their respective rows and columns and begin the                                                                                                                                                 
