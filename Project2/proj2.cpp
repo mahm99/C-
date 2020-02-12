@@ -1,10 +1,6 @@
 /**********************************************************
  * File:        proj2.cpp
- * Project:     CMSC 202, Project 02, Fall 2019
  * Author:      Mahmood Ul Mohasin Aziz
- * Date:        10/10/2019
- * Section:     13
- * Email:       rg66173@umbc.edu
  * 
  * This file contains c++ program code for the game 
  * Harry potter - Wizards Unite. The main function calls
