@@ -2,6 +2,7 @@
  * File:        Foundable.cpp
  * Author:      Mahmood Ul Mohasin Aziz
  * 
+ * Description:
  * This file contains c++ program code for the class
  * Foundable. This class manages and stores all the foundable's 
  * information from the text file into an array. Also, it
