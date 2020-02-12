@@ -1,10 +1,7 @@
 /**********************************************************
  * File:        Wizard.h
- * Project:     CMSC 202, Project 02, Fall 2019
  * Author:      Mahmood Ul Mohasin Aziz
- * Date:        10/10/2019
- * Section:     13
- * Email:       rg66173@umbc.edu
+ * Description: Header file for the Wizard class.
  ********************************************************/
 
 #ifndef WIZARD_H //Header Guard
