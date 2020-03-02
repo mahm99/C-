@@ -1,8 +1,3 @@
-/*Title: Room.h
-Author: Prof. Dixon
-Date: 10/29/2019
-Description: This class defines rooms in UMBC Adventure
-*/
 #ifndef ROOM_H //Header Guard
 #define ROOM_H //Header Guard
 #include <iostream>
