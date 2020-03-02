@@ -1,6 +1,5 @@
 /***********************************************************
  ** File:    Entity.h
- ** Project: Project 4
  ** Author:  Mahmood Ul Mohasin Aziz
  ** Description:
  ** This file contains the header file of the Entity class
